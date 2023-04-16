@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Hello! I'M Allyson</h1>
+<h1> Hello! I'm Allyson</h1>
 
 <picture >
  <img alt="Photo of Ally Logo" src=".\assets\images\MeowMer-01 (4).png" width ="800">
