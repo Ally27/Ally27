@@ -5,6 +5,13 @@
 <picture >
  <img alt="Photo of Ally Logo" src=".\assets\images\MeowMer-01 (4).png" width ="800">
 </picture>
+ 
+ <div>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/allyson-gonzales-94485a250/">Linkedin</a> •
+  <a href="mailto:allysonmg21@gmail.com">E-mail</a>
+  </p>
+</div>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ally27.visitor-badge&left_color=purple&right_color=blue&left_text=Hello%20Visitors)
 <img>
@@ -21,7 +28,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-<!-- (Will update this later, last updated on: 4.16.23) -->
+<!-- (Will update this later, last updated on: 5.9.23) -->
 # Bio
 
 <h2>I am a Full Stack Developer </h2>
