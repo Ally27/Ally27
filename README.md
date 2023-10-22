@@ -28,10 +28,10 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-<!-- (Will update this later, last updated on: 5.9.23) -->
+<!-- (Will update this later, last updated on: 5.9.23| 10.22.23) -->
 # Bio
-
-<h2>I am a Full Stack Developer </h2>
+<h2>I am a Full Stack Web Developer </h2>
+<h2>Located in Federal Way, WA</h2>
 
 # My Stats
 
